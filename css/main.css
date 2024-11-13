@@ -1,0 +1,29 @@
+body{
+font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+  font-family: Impact;
+  font-weight: bold;
+  font-size: 80px;
+  color: #000000;
+  margin-block: 3.3125rem;
+  /* display: block; */
+  /* unicode-bidi: isolate; */
+
+}
+
+p{
+  color: #000000;
+  font-size: 35px;
+  margin-block: 35px;
+}
+button{
+  background-color: #0000ff;
+  color: #ffffff;
+  padding-inline: 100px;
+  padding-block: 30px;
+  font-size: 13.3333px;
+}
+button:hover{
+  background-color: green;
+}
